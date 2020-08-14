@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 | 啦啦啦
 
 + 个人网站：https://shhch.github.io/library
+
+![shhch's github stats](https://github-readme-stats.vercel.app/api?username=shhch&show_icons=true&theme=vue&line_height=27&count_private=true)
