@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="static/squirrel.png" style="width: 60%; height: 60%"></img>
+
 | 啦啦啦
 
 + 个人网站：https://shhch.github.io/library
 
-![shhch's github stats](https://github-readme-stats.vercel.app/api?username=shhch&bg_color=FFFFFF&title_color=000&text_color=000&show_icons=true&icon_color=000000)
+![shhch's github stats](https://github-readme-stats.vercel.app/api?username=shhch&bg_color=FFFFFF&title_color=42g&text_color=6df&show_icons=true&icon_color=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shhch&layout=compact)
